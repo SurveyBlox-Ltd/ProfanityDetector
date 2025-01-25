@@ -1,4 +1,12 @@
-﻿#ifndef B_PROFANITY_DETECTOR
+﻿/*
+ * @fileProfanityDetector.h
+ * 
+ * @description Checks messages for profanity
+ * 
+ * @copyright SurveyBlox Ltd & Shayden Seymour
+ */
+
+#ifndef B_PROFANITY_DETECTOR
 #define B_PROFANITY_DETECTOR
 
 #include <string>

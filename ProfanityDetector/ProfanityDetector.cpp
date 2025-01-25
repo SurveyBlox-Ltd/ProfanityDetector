@@ -1,4 +1,4 @@
-﻿/**
+﻿/*
  * @fileProfanityDetector.cpp
  * 
  * @description Checks messages for profanity
