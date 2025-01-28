@@ -1,4 +1,7 @@
-out/*
+# Ignoore build files
+out/
+build/
+
 
 # Ignore IDE files
 .vscode/
