@@ -1,1 +1,5 @@
 out/*
+
+# Ignore IDE files
+.vscode/
+.vs/
